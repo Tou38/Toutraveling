@@ -238,11 +238,11 @@ ol.type li a:hover {
 /* Contact Section */
 #contact {
 	padding: 60px 0 60px 0;
-	background:#262626 ;
+	background:#5541d4 ;
 }
 #contact h2 {
 	font-weight: 400;
-	color:#777 ;
+	color:rgb(20, 18, 18) ;
 	margin: 60px 0;
 }
 #contact img {
@@ -250,7 +250,7 @@ ol.type li a:hover {
 	margin: 5px 30px 10px 0;
 }
 #contact p {
-	color: #666;
+	color: rgb(0, 0, 0);
 	margin-bottom: 20px;
 	line-height: 24px;
 }
@@ -264,7 +264,7 @@ ol.type li a:hover {
 #contact .social i.fa {
 	font-size: 26px;
 	padding: 4px;
-	color: #777;
+	color: rgb(0, 0, 0);
 	transition: all 0.3s;
 }
 #contact .social i.fa:hover {
@@ -290,7 +290,7 @@ label {
 	font-weight: 400;
 	line-height: 1.42857143;
 	color: #aaa;
-	background-color: #444;
+	background-color: rgb(143, 136, 136);
 	background-image: none;
 	border: 0;
 	border-radius: 0;
@@ -301,46 +301,46 @@ label {
 	transition: none;
 }
 #contact .form-control:focus {
-	border-color: #999;
+	border-color:#777;
 	outline: 0;
 	-webkit-box-shadow: transparent;
 	box-shadow: transparent;
 }
 .form-control::-webkit-input-placeholder {
-color: #777;
+color: rgb(0, 0, 0);
 }
 .form-control:-moz-placeholder {
 color:#777;
 }
 .form-control::-moz-placeholder {
-color: #777;
+color: rgb(126, 122, 122);
 }
 .form-control:-ms-input-placeholder {
 color: #777;
 }
 #contact .btn-default {
 	font-weight: 400;
-	color: #666;
+	color: rgb(205, 214, 214);
 	background-color: transparent;
-	border: 2px solid #666;
+	border: 2px solid rgb(212, 32, 158);
 	padding: 10px 20px;
 	margin: 0;
 	font-size: 15px;
-	border-radius: 0;
+	border-radius: 4px;
 	margin-top: 20px;
 	text-transform: uppercase;
 	transition: all 0.3s;
 }
 #contact .btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active {
-	background-color: #666;
-	color: #999;
+	background-color: #777;
+	color: #666;
 }
 /* Footer Section*/
 #footer {
-	background: #262626;
+	background: #1784a5;
 	padding: 50px 0 20px 0;
 }
 #footer p {
 	font-size: 15px;
-	color: #666;
+	color: rgb(2, 1, 1);
 }
